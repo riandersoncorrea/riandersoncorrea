@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rianderson!</h1>
-<h3 align="center">Futuro desenvolvedor front-end e mobile em constante aprendizado.</h3>
+<h3 align="center">Futuro desenvolvedor de software em constante aprendizado.</h3>
 
 - 👨‍🎓 Atualmente estudando **Sistemas de Informação**
 
