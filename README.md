@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Rianderson!</h1>
-<h3 align="center">Desenvolvedor de Software.</h3>
+<h3>Desenvolvedor de Software.</h3>
 
 - 👨‍🎓 Graduando em **Sistemas de Informação**
 
-- 🧠 Atualmente me especializando em ****Typescript, Javascript e React Native****
+- 🧠 Atualmente me especializando em ****Desenvolvimento web****
 
 - 🌐 Interessado em **desenvolvimento full stack**
 
