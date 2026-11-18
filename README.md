@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Rianderson!</h1>
-<h3>Desenvolvedor de Software.</h3>
+<h3>Desenvolvedor de Software</h3>
 
 - 👨‍🎓 Graduando em **Sistemas de Informação**
 
