@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rianderson!</h1>
-<h3 align="center">Futuro desenvolvedor de software em constante aprendizado.</h3>
+<h1 align="center">Olá 👋, eu sou Rianderson!</h1>
+<h3 align="center">Desenvolvedor de Software.</h3>
 
-- 👨‍🎓 Atualmente estudando **Sistemas de Informação**
+- 👨‍🎓 Graduando em **Sistemas de Informação**
 
 - 🧠 Atualmente me especializando em ****Typescript, Javascript e React Native****
 
-- 🌐 Interessado em **frontend web e mobile**
+- 🌐 Interessado em **desenvolvimento full stack**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rianderson-correa-610203220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rianderson-correa-610203220/" height="30" width="40" /></a>
 <a href="https://instagram.com/riandersonc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riandersonc" height="30" width="40" /></a>
